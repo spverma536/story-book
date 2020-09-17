@@ -1,7 +1,7 @@
 {
   "name": "story-book",
   "version": "1.0.0",
-  "description": "App to create share stories among others",
+  "description": "App to create share among others",
   "main": "app.js",
   "scripts": {
     "start": "cross-env NODE_ENV=production node app",
